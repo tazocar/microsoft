@@ -1,0 +1,65 @@
+/*Esto es un comentario*/       
+body{
+	text-align: center;
+}
+.cuadrado-color {
+	background-color: #5BA8D2;
+	margin-top: -60px;
+}
+.mi-panda{
+	color: white;
+	font-family: Archivo Black;
+	letter-spacing: 10px;
+	font-size: 100px;
+	margin-bottom: 0px;
+}
+.h4-inicio{
+	color: white;
+	font-family: Roboto Condensed;
+	letter-spacing: 2px;
+	margin-bottom: -10px;
+	font-size: 25px;
+}
+.universal{
+	color: white;
+	font-family: Anton;
+	font-size: 30px;
+	letter-spacing: 10px;
+	margin-top: -15px;
+	font-size: 54px;
+
+}
+p{
+	font-family: Bitter;
+
+}
+h2{
+	font-family: Archivo Black;
+	letter-spacing: 3px;
+	color: #5BA8D2;
+	margin-top: -20px;
+	font-size: 50px;
+}
+h3{
+	font-family: Archivo Black;
+	letter-spacing: 3px;
+	color: white ;
+}
+a{
+	font-family: Archivo Black;
+	letter-spacing: 10px;
+	color: white;
+
+}
+.more-info{
+	margin-top: 60px;
+	border-top: 10px dotted #5BA8D2;
+	background-color: #5BA8D2;
+	padding-bottom: 30px;
+
+}
+/*img{
+	width: ; 
+	height: ;
+} */
+
