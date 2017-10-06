@@ -32,12 +32,12 @@ body{
 }
 .babypanda{
 	width: 100px;
-
 }
+
 p{
 	font-family: Bitter;
-
 }
+
 h2{
 	font-family: Archivo Black;
 	letter-spacing: 3px;
@@ -58,7 +58,6 @@ a{
 }
 .more-info{
 	margin-top: 60px;
-	border-top: 10px dotted #5BA8D2;
 	background-color: #5BA8D2;
 	padding-bottom: 30px;
 
