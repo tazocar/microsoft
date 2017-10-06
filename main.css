@@ -5,6 +5,7 @@ body{
 .cuadrado-color {
 	background-color: #5BA8D2;
 	margin-top: -60px;
+	margin-bottom: -50px;
 }
 .mi-panda{
 	color: white;
@@ -29,6 +30,10 @@ body{
 	font-size: 54px;
 
 }
+.babypanda{
+	width: 100px;
+
+}
 p{
 	font-family: Bitter;
 
@@ -37,13 +42,13 @@ h2{
 	font-family: Archivo Black;
 	letter-spacing: 3px;
 	color: #5BA8D2;
-	margin-top: -20px;
 	font-size: 50px;
 }
 h3{
 	font-family: Archivo Black;
-	letter-spacing: 3px;
-	color: white ;
+	letter-spacing: 10px;
+	color: white;
+	font-size: 30px;
 }
 a{
 	font-family: Archivo Black;
